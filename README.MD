@@ -1,4 +1,4 @@
-# Curso docker da GeekUniversity
+# 🐳 Curso docker da GeekUniversity 🐳
 
 [link do curso](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/?referralCode=4180ED98E508AEAAE5FF)
 
